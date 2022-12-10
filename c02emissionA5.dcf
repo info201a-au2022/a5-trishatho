@@ -1,0 +1,14 @@
+name: c02emissionA5
+title: c02emissionA5
+username:
+account: trishatho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7854397
+bundleId: 6618894
+url: https://trishatho.shinyapps.io/c02emissionA5/
+when: 1670649538.99829
+lastSyncTime: 1670649538.99831
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: summary_page.R

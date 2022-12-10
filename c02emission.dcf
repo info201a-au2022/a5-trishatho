@@ -1,0 +1,13 @@
+name: c02emission
+title: c02emission
+username:
+account: trishatho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7854184
+bundleId: 6614030
+url: https://trishatho.shinyapps.io/c02emission/
+when: 1670560003.26485
+lastSyncTime: 1670560003.26487
+asMultiple: FALSE
+asStatic: FALSE
